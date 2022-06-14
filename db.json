@@ -1,0 +1,109 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Spiderman",
+      "alterEgo": "Peter Parker"
+    },
+    {
+      "id": 3,
+      "name": "Venom",
+      "alterEgo": "Vlad Artem"
+    },
+    {
+      "name": "asdasd",
+      "alterEgo": "asd",
+      "id": 4
+    },
+    {
+      "name": "123",
+      "alterEgo": "asd",
+      "id": 5
+    },
+    {
+      "name": "456",
+      "alterEgo": "123",
+      "id": 6
+    },
+    {
+      "name": "789",
+      "alterEgo": "1",
+      "id": 7
+    },
+    {
+      "name": "789",
+      "alterEgo": "1",
+      "id": 8
+    },
+    {
+      "name": "789asd",
+      "alterEgo": "1asd",
+      "id": 9
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Bob"
+    },
+    {
+      "id": 2,
+      "name": "Peter"
+    },
+    {
+      "id": 3,
+      "name": "Meggy"
+    }
+  ],
+  "users": [
+    {
+      "id": "example@mail.ua",
+      "channelId": "ushkoff"
+    }
+  ],
+  "channels": [
+    {
+      "id": "ushkoff",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "white"
+    },
+    {
+      "id": 2,
+      "label": "black"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "orange"
+    },
+    {
+      "id": 5,
+      "label": "yellow"
+    },
+    {
+      "id": 6,
+      "label": "brown"
+    },
+    {
+      "id": 7,
+      "label": "pink"
+    }
+  ]
+}
